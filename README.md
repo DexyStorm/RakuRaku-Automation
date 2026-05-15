@@ -25,9 +25,11 @@ $ source venv/bin/activate
 
 $ pip install -r requirements.txt
 
-Open Forza Horizon 6 and start a RakuRaku Job.
+Open Forza Horizon 6 and start a RakuRaku Job. Make sure that you don't have any other windows open/visible on your monitor.
 
 $ python3 simple.py
+
+Tab back to Forza Horizon 6.
 
 Windows:
 
