@@ -12,7 +12,7 @@ import numpy
 screen_scanning_timer = 2 # how many iterations need to happen until the program takes a screenshot of the monitor and scans it
 ###
 
-bad_phrases = ["drift", "drift drive", "drift score", "drift points", "wreckage", "skill points", "perform near - miss"]
+bad_phrases = ["drift", "drift drive", "drift score", "drift points", "wreckage", "perform", "wrecking", "skill points", "perform near - miss", "near-miss"]
 
 
 
