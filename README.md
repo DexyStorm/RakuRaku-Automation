@@ -5,9 +5,12 @@ This little script will automate the boring RakuRaku job in Forza Horizon 6.
 There are two scripts: simple.py and complex.py<br>
 simple.py will only spam "enter" and try to turn auto-drive on. If a job gets picked in which auto-drive cannot be used, simple.py will wait until the job timer has run out and accept a new job, while complex.py tries to exit the current job and re-enter it.
 
-# Usage
 
-Requirements: You will need python and pip installed.
+# Requirements: 
+
+You will need python https://www.python.org/downloads/, pip and tessaract https://tesseractocr.org/ installed.
+
+# Usage
 
 Linux:
 
@@ -21,6 +24,8 @@ $ python -m venv venv
 $ source venv/bin/activate
 
 $ pip install -r requirements.txt
+
+Open Forza Horizon 6 and start a RakuRaku Job.
 
 $ python3 simple.py
 
