@@ -12,9 +12,9 @@ You will need python https://www.python.org/downloads/, pip and tessaract https:
 
 # Usage
 
-Linux:
+# Linux:
 
-$ git clone git@github.com:DexyStorm/RakuRaku-Automation.git
+$ git clone https://github.com/DexyStorm/RakuRaku-Automation.git
 
 $ cd RakuRaku-Automation
 
@@ -31,10 +31,10 @@ $ python3 simple.py
 
 Tab back to Forza Horizon 6.
 
-Windows:
+# Windows:
 
 https://archlinux.org/download/
 
-Macos:
+# Macos:
 
 https://www.amazon.com/s?k=gaming+pc&crid=7MSDR5BWRX5H&sprefix=gaming+%2Caps%2C217
